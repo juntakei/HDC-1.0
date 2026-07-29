@@ -1,4 +1,4 @@
-# Onkyo HDC-1 Linux audio
+# Onkyo HDC-1.0 Linux audio
 
 **GitHub repository blurb (About description):**
 
